@@ -23,6 +23,6 @@ Our community is the cornerstone of our success. We believe in fostering a colla
 We're on a thrilling journey with BTI-Platform, and we invite you to be a part of it. Whether you're a crypto enthusiast, a potential investor, or someone curious about virtual currencies, join us in shaping the future of digital finance. 💪
 
 📬 **Get in Touch:**
-Have questions about BTI-Platform or want to know more? Reach out to us at [YourContactEmail.com] or visit our website [btiplatform.com](btiplatform.com). We're always here to help and collaborate.
+Have questions about BTI-Platform or want to know more? Reach out to us at [YourContactEmail.com] or visit our website [btiplatform.com](https://btiplatform.com). We're always here to help and collaborate.
 
 Together, let's drive innovation with BTI-Platform at BTI-US! 🌐
