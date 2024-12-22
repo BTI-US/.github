@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/main-logo.png" alt="BTI-Platform Description" width="150"/>
+  <img src="main-logo.png" alt="BTI-Platform Description" width="150"/>
 </p>
 
 # 🌟 **Welcome to BTI-US!** 🚀
